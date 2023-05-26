@@ -8,5 +8,3 @@ I am a Computer Science Student at UNIJUI
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
-#### Contact
-- Linkedin: https://www.linkedin.com/in/samuel-schirmer/

@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel 👋
 #### About
-I am a Computer Science Student at UNIJUI
+I'm a Computer Science Student at UNIJUI
 #### Current Stack
 - Main Language: `Javascript`
 - Backend: `Nodejs` 
